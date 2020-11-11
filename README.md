@@ -184,6 +184,7 @@ If this card works with your air purifier, please open a PR and your model to th
 
 - Air Purifier 3/3H
 - Air Purifier 2/2H
+- Air Purifier Pro
 - [_Your purifier?_][edit-readme]
 
 ## Development
